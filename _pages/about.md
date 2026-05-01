@@ -46,7 +46,7 @@ I am a Ph.D. student in the School of Integrated Circuits and the Institute for 
 
 - **[FCCM'26]** *FPGA-Gym-v2: FPGA-Based RL Environment Acceleration with LLM-Assisted Onboarding*, Jiayi Li\*, **Hongxiao Zhao**\*, et al.
 - **[ISEDA'26]** *CoPU-RL: A Hardware-Friendly Training-Inference Framework for Neuro-Symbolic Reinforcement Learning*, Fengyuan Guo\*, **Hongxiao Zhao**\*, et al.
-- **[AICSP]** [*A novel memristor-based method to compute eigenpairs*](https://link.springer.com/article/10.1007/s10470-023-02214-3), **Hongxiao Zhao**, Zezhi Cheng, Chujun Han, Hongxuan Guo, Litao Sun
+- **[AICSP]** [*A novel memristor-based method to compute eigenpairs*](https://link.springer.com/article/10.1007/s10470-023-02214-3), **Hongxiao Zhao**, Zezhi Cheng, Chujun Han, Hongxuan Guo, Litao Sun.
 
 ## Co-author papers
 
