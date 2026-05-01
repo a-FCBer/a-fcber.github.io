@@ -70,4 +70,4 @@ I am a Ph.D. student in the School of Integrated Circuits and the Institute for 
 
 # 👨🏻‍🎓 Services
 - Reviewer, [DAC'26](https://dac.com/2026).
-- Reviewer, [Integrated Circuits and Embedded Systems](https://jices.buaa.edu.cn/index.jsp).
+- Reviewer, [Integrated Circuits and Embedded Systems](https://service.jices.cn/).
