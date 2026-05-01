@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Ph.D. student in the School of Integrated Circuits and the Institute for Artificial Intelligence at Peking University, advised by Prof. Bonan Yan. My research lies at the intersection of neuro-symbolic AI, cognitive architectures, and AI chip design. I build hardware/software systems that connect symbolic reasoning, learning-based agents, and custom silicon, with the goal of making intelligent systems more efficient, reliable, and deployable. My strength is combining algorithm-level insight with hands-on chip implementation, including three successful tape-outs and post-silicon validation.
+I am a Ph.D. student in the School of Integrated Circuits and the Institute for Artificial Intelligence at Peking University, advised by Prof. Bonan Yan. My research lies at the intersection of neuro-symbolic AI, cognitive architectures, and AI chip design. I build hardware/software systems that connect symbolic reasoning, learning-based agents, and custom silicon, with the goal of making intelligent systems more efficient, reliable, and deployable. My strength is combining algorithm-level insight with hands-on chip implementation, including **three successful tape-outs and post-silicon validation**.
 
 # 🔥 News
 - *2026.04*: &nbsp;🎉🎉 Our *FPGA-Gym-v2* is selected as a finalist in the FCCM 2026 Reconfigurable Computing Challenge.
