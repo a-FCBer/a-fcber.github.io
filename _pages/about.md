@@ -21,7 +21,7 @@ I am a Ph.D. student in the School of Integrated Circuits and the Institute for 
 
 # 🔥 News
 - *2026.04*: &nbsp;🎉🎉 Our *FPGA-Gym-v2* is selected as a finalist in the FCCM 2026 Reconfigurable Computing Challenge.
-- *2026.03*: &nbsp;🎉🎉 One paper is accepted by ISEDA 2026.
+- *2026.03*: &nbsp;🎉🎉 One paper is accepted by ISEDA 2026 (best paper candidate).
 - *2026.02*: &nbsp;🎉🎉 One paper is accepted by DAC 2026.
 - *2025.05*: &nbsp;🎉🎉 One paper is accepted by ESSERC 2025.
 - *2024.11*: &nbsp;🎉🎉 One paper is accepted by HPCA 2025.
