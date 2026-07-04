@@ -20,7 +20,8 @@ redirect_from:
 I am a Ph.D. student in the School of Integrated Circuits and the Institute for Artificial Intelligence at Peking University, advised by Prof. Bonan Yan. My research lies at the intersection of neuro-symbolic AI, cognitive architectures, and AI chip design. I build hardware/software systems that connect symbolic reasoning, learning-based agents, and custom silicon, with the goal of making intelligent systems more efficient, reliable, and deployable. My strength is combining algorithm-level insight with hands-on chip implementation, including **three successful tape-outs and post-silicon validation**.
 
 # 🔥 News
-- *2026.04*: &nbsp;🎉🎉 Our *FPGA-Gym-v2* is selected as a finalist in the FCCM 2026 Reconfigurable Computing Challenge.
+- *2026.05*: &nbsp;🎉🎉 One paper is accepted by ESSERC 2026.
+- *2026.04*: &nbsp;🎉🎉 Our *FPGA-Gym-v2* and *WebAssembly Stack Co-Processor* are selected as finalists in the FCCM 2026 Reconfigurable Computing Challenge.
 - *2026.03*: &nbsp;🎉🎉 One paper is accepted by ISEDA 2026 (best paper candidate).
 - *2026.02*: &nbsp;🎉🎉 One paper is accepted by DAC 2026.
 - *2025.05*: &nbsp;🎉🎉 One paper is accepted by ESSERC 2025.
@@ -44,13 +45,15 @@ I am a Ph.D. student in the School of Integrated Circuits and the Institute for 
 
 ## First-author and Co-first-author Papers
 
-- **[FCCM'26]** *FPGA-Gym-v2: FPGA-Based RL Environment Acceleration with LLM-Assisted Onboarding*, Jiayi Li\*, **Hongxiao Zhao**\*, et al.
+- **[ESSERC'26]** *BSTroM: A 28-nm Processing Unit with Sparse Dataflow & Backward-Sampling Support for Tractable Probabilistic Models*, Anjunyi Fan, **Hongxiao Zhao**, et al.
+- **[FCCM'26]** [*Reconfigurable Computing Challenge: FPGA-Gym-v2: FPGA-Based RL Environment Acceleration with LLM-Assisted Onboarding*](https://ieeexplore.ieee.org/document/11552653), Jiayi Li\*, **Hongxiao Zhao**\*, et al.
 - **[ISEDA'26]** *CoPU-RL: A Hardware-Friendly Training-Inference Framework for Neuro-Symbolic Reinforcement Learning*, Fengyuan Guo\*, **Hongxiao Zhao**\*, et al.
 - **[AICSP]** [*A novel memristor-based method to compute eigenpairs*](https://link.springer.com/article/10.1007/s10470-023-02214-3), **Hongxiao Zhao**, Zezhi Cheng, Chujun Han, Hongxuan Guo, Litao Sun.
 
 ## Co-author papers
 
 - **[DAC'26]** *C2C-Explorer: An Exploration Framework for Chip-to-Chip Interconnect Architectures in LLM Cloud Computing Systems*, Jiayi Li, Di Wu, Qingxu Li, **Hongxiao Zhao**, et al.
+- **[FCCM'26]** [*Reconfigurable Computing Challenge: FPGA-Based WebAssembly Stack Co-Processor*](https://ieeexplore.ieee.org/document/11552699), Qiuping Wu, Mugeng Liu, Yixuan Zhang, **Hongxiao Zhao**, et al.
 - **[DATE'25]** [*PEARL: FPGA-Based Reinforcement Learning Acceleration with Pipelined Parallel Environments*](https://ieeexplore.ieee.org/abstract/document/10992886), Jiayi Li, **Hongxiao Zhao**, et al.
 - **[HPCA'25]** [*PROCA: programmable probabilistic processing unit architecture with accept/reject prediction & multicore pipelining for causal inference*](https://ieeexplore.ieee.org/abstract/document/10946795), Yihan Fu, Anjunyi Fan, Wenshuo Yue, **Hongxiao Zhao**, et al.
 - **[ESSERC'25]** [*A 40nm 48.7F2 Bit 1T2R Resistive Memory Bitcell Array for Adaptive Vector-Symbolic in-Memory Computing*](https://ieeexplore.ieee.org/abstract/document/11214018/), Wenshuo Yue, Zhaokun Jing, Lintao Ye, Tianyao Xiao, Pek Jun Tiw, Yihan Fu, Yuxiang Yang, Mo Guang, Kaiwen Long, Daijing Shi, **Hongxiao Zhao**, et al.
